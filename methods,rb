@@ -1,0 +1,5 @@
+def greeting_programmer (name = 'Iain', language) 
+  "hello, #{name} are you learning to program in #{language}?"
+end
+
+puts greeting_programmer('ruby')
